@@ -1,0 +1,1 @@
+print("Esse e o script2 do projeto")
